@@ -37,5 +37,20 @@
             return 2 * (width + height);
         }
 
+
+        private const double Pi = Math.PI;
+        // Метод для расчета площади круга
+        public double CircleArea(double radius)
+        {
+            return Pi * radius * radius;
+        }
+
+        // Метод для расчета периметра (длины окружности) круга
+        public double CirclePerimeter(double radius)
+        {
+            return 2 * Pi * radius;
+        }
+
+
     }
 }
