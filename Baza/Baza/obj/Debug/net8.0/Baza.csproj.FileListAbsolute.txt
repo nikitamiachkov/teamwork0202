@@ -1,0 +1,12 @@
+D:\Students\NGK\0202mdk\TEAMwork\Baza\Baza\bin\Debug\net8.0\Baza.deps.json
+D:\Students\NGK\0202mdk\TEAMwork\Baza\Baza\bin\Debug\net8.0\Baza.dll
+D:\Students\NGK\0202mdk\TEAMwork\Baza\Baza\bin\Debug\net8.0\Baza.pdb
+D:\Students\NGK\0202mdk\TEAMwork\Baza\Baza\obj\Debug\net8.0\Baza.GeneratedMSBuildEditorConfig.editorconfig
+D:\Students\NGK\0202mdk\TEAMwork\Baza\Baza\obj\Debug\net8.0\Baza.AssemblyInfoInputs.cache
+D:\Students\NGK\0202mdk\TEAMwork\Baza\Baza\obj\Debug\net8.0\Baza.AssemblyInfo.cs
+D:\Students\NGK\0202mdk\TEAMwork\Baza\Baza\obj\Debug\net8.0\Baza.csproj.CoreCompileInputs.cache
+D:\Students\NGK\0202mdk\TEAMwork\Baza\Baza\obj\Debug\net8.0\Baza.sourcelink.json
+D:\Students\NGK\0202mdk\TEAMwork\Baza\Baza\obj\Debug\net8.0\Baza.dll
+D:\Students\NGK\0202mdk\TEAMwork\Baza\Baza\obj\Debug\net8.0\refint\Baza.dll
+D:\Students\NGK\0202mdk\TEAMwork\Baza\Baza\obj\Debug\net8.0\Baza.pdb
+D:\Students\NGK\0202mdk\TEAMwork\Baza\Baza\obj\Debug\net8.0\ref\Baza.dll
