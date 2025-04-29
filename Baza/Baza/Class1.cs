@@ -37,5 +37,16 @@
             return 2 * (width + height);
         }
 
+        //Методы для куба
+        public double CubeSurfaceArea(double side)
+        {
+            return 6 * side * side;
+        }
+
+        public double CubeVolume(double side)
+        {
+            return side * side * side;
+        }
+
     }
 }

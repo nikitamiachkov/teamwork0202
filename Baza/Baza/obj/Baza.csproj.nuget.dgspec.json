@@ -1,20 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Students\\NGK\\0202mdk\\TEAMwork\\Baza\\Baza\\Baza.csproj": {}
+    "C:\\Users\\edino\\OneDrive\\Рабочий стол\\Новая папка\\Baza\\Baza\\Baza.csproj": {}
   },
   "projects": {
-    "D:\\Students\\NGK\\0202mdk\\TEAMwork\\Baza\\Baza\\Baza.csproj": {
+    "C:\\Users\\edino\\OneDrive\\Рабочий стол\\Новая папка\\Baza\\Baza\\Baza.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Students\\NGK\\0202mdk\\TEAMwork\\Baza\\Baza\\Baza.csproj",
+        "projectUniqueName": "C:\\Users\\edino\\OneDrive\\Рабочий стол\\Новая папка\\Baza\\Baza\\Baza.csproj",
         "projectName": "Baza",
-        "projectPath": "D:\\Students\\NGK\\0202mdk\\TEAMwork\\Baza\\Baza\\Baza.csproj",
-        "packagesPath": "C:\\Users\\propl\\.nuget\\packages\\",
-        "outputPath": "D:\\Students\\NGK\\0202mdk\\TEAMwork\\Baza\\Baza\\obj\\",
+        "projectPath": "C:\\Users\\edino\\OneDrive\\Рабочий стол\\Новая папка\\Baza\\Baza\\Baza.csproj",
+        "packagesPath": "C:\\Users\\edino\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\edino\\OneDrive\\Рабочий стол\\Новая папка\\Baza\\Baza\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\propl\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\edino\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -61,7 +65,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.200/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.201/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
