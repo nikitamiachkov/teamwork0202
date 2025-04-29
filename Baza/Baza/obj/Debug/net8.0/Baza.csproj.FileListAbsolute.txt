@@ -1,0 +1,11 @@
+C:\Users\Zhenya\Desktop\геометрические фигуры\Baza\Baza\bin\Debug\net8.0\Baza.deps.json
+C:\Users\Zhenya\Desktop\геометрические фигуры\Baza\Baza\bin\Debug\net8.0\Baza.dll
+C:\Users\Zhenya\Desktop\геометрические фигуры\Baza\Baza\bin\Debug\net8.0\Baza.pdb
+C:\Users\Zhenya\Desktop\геометрические фигуры\Baza\Baza\obj\Debug\net8.0\Baza.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Zhenya\Desktop\геометрические фигуры\Baza\Baza\obj\Debug\net8.0\Baza.AssemblyInfoInputs.cache
+C:\Users\Zhenya\Desktop\геометрические фигуры\Baza\Baza\obj\Debug\net8.0\Baza.AssemblyInfo.cs
+C:\Users\Zhenya\Desktop\геометрические фигуры\Baza\Baza\obj\Debug\net8.0\Baza.csproj.CoreCompileInputs.cache
+C:\Users\Zhenya\Desktop\геометрические фигуры\Baza\Baza\obj\Debug\net8.0\Baza.dll
+C:\Users\Zhenya\Desktop\геометрические фигуры\Baza\Baza\obj\Debug\net8.0\refint\Baza.dll
+C:\Users\Zhenya\Desktop\геометрические фигуры\Baza\Baza\obj\Debug\net8.0\Baza.pdb
+C:\Users\Zhenya\Desktop\геометрические фигуры\Baza\Baza\obj\Debug\net8.0\ref\Baza.dll

@@ -1,9 +1,13 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\Students\\NGK\\0202mdk\\TEAMwork\\Baza\\",
+  "WorkspaceRootPath": "C:\\Users\\Zhenya\\Desktop\\\u0433\u0435\u043E\u043C\u0435\u0442\u0440\u0438\u0447\u0435\u0441\u043A\u0438\u0435 \u0444\u0438\u0433\u0443\u0440\u044B\\Baza\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{8C6AD210-8F81-447C-97CF-7778B882BFAB}|Baza\\Baza.csproj|d:\\students\\ngk\\0202mdk\\teamwork\\baza\\baza\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{754FC069-D67B-A9D7-50A1-8D1CA196D8F1}|\u042D\u043B\u0435\u043C\u0435\u043D\u0442\u044B \u0440\u0435\u0448\u0435\u043D\u0438\u044F{754FC069-D67B-A9D7-50A1-8D1CA196D8F1}|C:\\Users\\Zhenya\\Desktop\\\u0433\u0435\u043E\u043C\u0435\u0442\u0440\u0438\u0447\u0435\u0441\u043A\u0438\u0435 \u0444\u0438\u0433\u0443\u0440\u044B\\Baza\\\u041A\u043B\u0430\u0441\u0441\u044B.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{754FC069-D67B-A9D7-50A1-8D1CA196D8F1}|\u042D\u043B\u0435\u043C\u0435\u043D\u0442\u044B \u0440\u0435\u0448\u0435\u043D\u0438\u044F{754FC069-D67B-A9D7-50A1-8D1CA196D8F1}|solutionrelative:\u041A\u043B\u0430\u0441\u0441\u044B.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C6AD210-8F81-447C-97CF-7778B882BFAB}|Baza\\Baza.csproj|c:\\users\\zhenya\\desktop\\\u0433\u0435\u043E\u043C\u0435\u0442\u0440\u0438\u0447\u0435\u0441\u043A\u0438\u0435 \u0444\u0438\u0433\u0443\u0440\u044B\\baza\\baza\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8C6AD210-8F81-447C-97CF-7778B882BFAB}|Baza\\Baza.csproj|solutionrelative:baza\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -19,12 +23,29 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "\u041A\u043B\u0430\u0441\u0441\u044B.cs",
+              "DocumentMoniker": "C:\\Users\\Zhenya\\Desktop\\\u0433\u0435\u043E\u043C\u0435\u0442\u0440\u0438\u0447\u0435\u0441\u043A\u0438\u0435 \u0444\u0438\u0433\u0443\u0440\u044B\\Baza\\\u041A\u043B\u0430\u0441\u0441\u044B.cs",
+              "RelativeDocumentMoniker": "\u041A\u043B\u0430\u0441\u0441\u044B.cs",
+              "ToolTip": "C:\\Users\\Zhenya\\Desktop\\\u0433\u0435\u043E\u043C\u0435\u0442\u0440\u0438\u0447\u0435\u0441\u043A\u0438\u0435 \u0444\u0438\u0433\u0443\u0440\u044B\\Baza\\\u041A\u043B\u0430\u0441\u0441\u044B.cs",
+              "RelativeToolTip": "\u041A\u043B\u0430\u0441\u0441\u044B.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAswDoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-29T18:33:07.612Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "Class1.cs",
-              "DocumentMoniker": "D:\\Students\\NGK\\0202mdk\\TEAMwork\\Baza\\Baza\\Class1.cs",
+              "DocumentMoniker": "C:\\Users\\Zhenya\\Desktop\\\u0433\u0435\u043E\u043C\u0435\u0442\u0440\u0438\u0447\u0435\u0441\u043A\u0438\u0435 \u0444\u0438\u0433\u0443\u0440\u044B\\Baza\\Baza\\Class1.cs",
               "RelativeDocumentMoniker": "Baza\\Class1.cs",
-              "ToolTip": "D:\\Students\\NGK\\0202mdk\\TEAMwork\\Baza\\Baza\\Class1.cs",
+              "ToolTip": "C:\\Users\\Zhenya\\Desktop\\\u0433\u0435\u043E\u043C\u0435\u0442\u0440\u0438\u0447\u0435\u0441\u043A\u0438\u0435 \u0444\u0438\u0433\u0443\u0440\u044B\\Baza\\Baza\\Class1.cs",
               "RelativeToolTip": "Baza\\Class1.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAYAAAAAAAAAA==",
+              "ViewState": "AgIAACAAAAAAAAAAAAAiwDoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-20T07:26:22.276Z",
               "EditorCaption": ""

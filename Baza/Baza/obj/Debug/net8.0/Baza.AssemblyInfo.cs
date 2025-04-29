@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Baza")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+928190251c3fbd04a2235b27575322a55007b4a7")]
 [assembly: System.Reflection.AssemblyProductAttribute("Baza")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Baza")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
