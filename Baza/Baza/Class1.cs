@@ -51,6 +51,17 @@
             return 2 * Pi * radius;
         }
 
+        //Лера
+        public double CubeSurfaceArea(double side)
+        {
+            return 6 * side * side;
+        }
+
+        public double CubeVolume(double side)
+        {
+            return side * side * side;
+        }
+
 
     }
 }
